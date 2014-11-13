@@ -1,0 +1,3 @@
+Lesson 3 Reflections
+When would you want to use a remote repository rather than keeping all your work local?
+  Remote repositories seem like they would be useful all of the time, for every project. First they are backedup in a secure place, second they allow for collaboration with others.  Keeping work local is probably only good for project you want to keep completely private.
